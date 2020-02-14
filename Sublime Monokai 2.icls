@@ -1,15 +1,11 @@
 <scheme name="Sublime Monokai 2" version="142">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-02-13T19:37:59</property>
+    <property name="created">2020-02-14T11:43:13</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-02-13T19:38:21</property>
+    <property name="modified">2020-02-14T11:43:25</property>
     <property name="originalScheme">Sublime Monokai 2</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Ubuntu Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="16" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ANNOTATIONS_COLOR" value="bbadb8" />
     <option name="CARET_COLOR" value="999999" />
