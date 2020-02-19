@@ -1,9 +1,9 @@
 <scheme name="Sublime Monokai 2" version="142">
   <metaInfo>
-    <property name="created">2020-02-14T15:13:30</property>
+    <property name="created">2020-02-19T13:11:55</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-02-14T15:13:44</property>
+    <property name="modified">2020-02-19T13:12:16</property>
     <property name="originalScheme">Sublime Monokai 2</property>
   </metaInfo>
   <colors>
@@ -535,7 +535,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="7b7468" />
+        <option name="BACKGROUND" value="38412d" />
+        <option name="EFFECT_COLOR" value="888888" />
       </value>
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
