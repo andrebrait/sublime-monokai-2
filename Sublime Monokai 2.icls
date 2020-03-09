@@ -1,9 +1,9 @@
 <scheme name="Sublime Monokai 2" version="142">
   <metaInfo>
-    <property name="created">2020-02-19T13:11:55</property>
+    <property name="created">2020-03-09T12:29:31</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-02-19T13:12:16</property>
+    <property name="modified">2020-03-09T12:29:46</property>
     <property name="originalScheme">Sublime Monokai 2</property>
   </metaInfo>
   <colors>
@@ -371,8 +371,7 @@
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="ece47e" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="c48cff" />
       </value>
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
