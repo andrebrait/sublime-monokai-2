@@ -1,9 +1,9 @@
 <scheme name="Sublime Monokai 2" version="142">
   <metaInfo>
-    <property name="created">2020-03-09T12:29:31</property>
+    <property name="created">2021-04-07T18:10:16</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-03-09T12:29:46</property>
+    <property name="ideVersion">2021.1.0.0</property>
+    <property name="modified">2021-04-07T18:10:27</property>
     <property name="originalScheme">Sublime Monokai 2</property>
   </metaInfo>
   <colors>
@@ -11,6 +11,7 @@
     <option name="CARET_COLOR" value="999999" />
     <option name="CARET_ROW_COLOR" value="5b5a4e" />
     <option name="CONSOLE_BACKGROUND_KEY" value="272822" />
+    <option name="DOCUMENTATION_COLOR" value="3c3f41" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="43474a" />
     <option name="GUTTER_BACKGROUND" value="272822" />
     <option name="INDENT_GUIDE" value="7b7468" />
