@@ -1,9 +1,9 @@
 <scheme name="Sublime Monokai 2" version="142">
   <metaInfo>
-    <property name="created">2021-04-07T18:10:16</property>
+    <property name="created">2021-06-08T11:48:55</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2021.1.0.0</property>
-    <property name="modified">2021-04-07T18:10:27</property>
+    <property name="ideVersion">2021.1.2.0.0</property>
+    <property name="modified">2021-06-08T11:49:07</property>
     <property name="originalScheme">Sublime Monokai 2</property>
   </metaInfo>
   <colors>
@@ -150,7 +150,7 @@
     </option>
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ffff00" />
+        <option name="FOREGROUND" value="808080" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
@@ -590,6 +590,11 @@
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ae8abe" />
+      </value>
+    </option>
+    <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
+      <value>
+        <option name="BACKGROUND" value="3c3f41" />
       </value>
     </option>
     <option name="TEXT">
