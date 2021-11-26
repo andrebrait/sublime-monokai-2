@@ -1,9 +1,9 @@
 <scheme name="Sublime Monokai 2" version="142">
   <metaInfo>
-    <property name="created">2021-11-26T11:48:00</property>
+    <property name="created">2021-11-26T14:05:38</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2021-11-26T11:48:12</property>
+    <property name="modified">2021-11-26T14:05:44</property>
     <property name="originalScheme">Sublime Monokai 2</property>
   </metaInfo>
   <colors>
@@ -21,13 +21,17 @@
     <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="455663" />
     <option name="INDENT_GUIDE" value="7b7468" />
     <option name="LINE_NUMBERS_COLOR" value="999999" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="efefef" />
+    <option name="LOOKUP_COLOR" value="3c3f41" />
     <option name="MODIFIED_LINES_COLOR" value="374752" />
     <option name="MODIFIED_TAB_ICON" value="4083c9" />
     <option name="NOTIFICATION_BACKGROUND" value="1d3857" />
     <option name="RIGHT_MARGIN_COLOR" value="999999" />
     <option name="SELECTED_INDENT_GUIDE" value="999999" />
+    <option name="SELECTED_TEARLINE_COLOR" value="787878" />
     <option name="SELECTION_BACKGROUND" value="cc9900" />
     <option name="SELECTION_FOREGROUND" value="404040" />
+    <option name="SEPARATOR_BELOW_COLOR" value="393a3c" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="7b7468" />
     <option name="TEARLINE_COLOR" value="999999" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="326b36" />
@@ -627,7 +631,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="38412d" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="EFFECT_COLOR" value="888888" />
       </value>
     </option>
