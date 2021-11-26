@@ -1,22 +1,31 @@
 <scheme name="Sublime Monokai 2" version="142">
   <metaInfo>
-    <property name="created">2021-08-31T16:00:32</property>
+    <property name="created">2021-11-26T11:42:44</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2021.2.1.0.0</property>
-    <property name="modified">2021-08-31T16:00:42</property>
+    <property name="ideVersion">2021.2.3.0.0</property>
+    <property name="modified">2021-11-26T11:42:57</property>
     <property name="originalScheme">Sublime Monokai 2</property>
   </metaInfo>
   <colors>
+    <option name="ADDED_LINES_COLOR" value="384c38" />
     <option name="ANNOTATIONS_COLOR" value="bbadb8" />
     <option name="CARET_COLOR" value="999999" />
     <option name="CARET_ROW_COLOR" value="5b5a4e" />
     <option name="CONSOLE_BACKGROUND_KEY" value="272822" />
+    <option name="DELETED_LINES_COLOR" value="656e76" />
     <option name="DOCUMENTATION_COLOR" value="3c3f41" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="43474a" />
     <option name="GUTTER_BACKGROUND" value="272822" />
+    <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="4c674c" />
+    <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="656e76" />
+    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="455663" />
     <option name="INDENT_GUIDE" value="7b7468" />
     <option name="LINE_NUMBERS_COLOR" value="999999" />
+    <option name="MODIFIED_LINES_COLOR" value="374752" />
+    <option name="MODIFIED_TAB_ICON" value="4083c9" />
+    <option name="NOTIFICATION_BACKGROUND" value="1d3857" />
     <option name="RIGHT_MARGIN_COLOR" value="999999" />
+    <option name="SELECTED_INDENT_GUIDE" value="505050" />
     <option name="SELECTION_BACKGROUND" value="cc9900" />
     <option name="SELECTION_FOREGROUND" value="404040" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="7b7468" />
@@ -26,7 +35,9 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="6b6639" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="6b4637" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="6b3239" />
+    <option name="VISUAL_INDENT_GUIDE" value="3c3c3c" />
     <option name="WHITESPACES" value="7b7468" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="4c4638" />
   </colors>
   <attributes>
     <option name="ABSTRACT_METHOD_ATTRIBUTES">
@@ -188,6 +199,72 @@
         <option name="FOREGROUND" value="589df6" />
         <option name="EFFECT_COLOR" value="589df6" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_1_MARKER">
+      <value>
+        <option name="FOREGROUND" value="313131" />
+        <option name="BACKGROUND" value="4f853b" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_1_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="4e6844" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_2_MARKER">
+      <value>
+        <option name="FOREGROUND" value="313131" />
+        <option name="BACKGROUND" value="3985a1" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_2_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="436571" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_3_MARKER">
+      <value>
+        <option name="FOREGROUND" value="313131" />
+        <option name="BACKGROUND" value="a76570" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_3_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="714950" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_4_MARKER">
+      <value>
+        <option name="FOREGROUND" value="313131" />
+        <option name="BACKGROUND" value="806ea6" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_4_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="50416e" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_5_MARKER">
+      <value>
+        <option name="FOREGROUND" value="313131" />
+        <option name="BACKGROUND" value="a24e26" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_5_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="734c3a" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_6_MARKER">
+      <value>
+        <option name="FOREGROUND" value="313131" />
+        <option name="BACKGROUND" value="a47a36" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_6_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="76623f" />
       </value>
     </option>
     <option name="DEBUGGER_INLINED_VALUES">
