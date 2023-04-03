@@ -1,19 +1,19 @@
 <scheme name="Sublime Monokai 2 - Dark" version="142">
   <metaInfo>
-    <property name="created">2023-04-03T21:33:51</property>
+    <property name="created">2023-04-03T22:27:12</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2023.1.0.0</property>
-    <property name="modified">2023-04-03T21:34:01</property>
-    <property name="originalScheme">Sublime Monokai 2</property>
+    <property name="modified">2023-04-03T22:27:28</property>
+    <property name="originalScheme">Sublime Monokai 2 - Dark</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="384c38" />
     <option name="ANNOTATIONS_COLOR" value="bbadb8" />
     <option name="CARET_COLOR" value="999999" />
     <option name="CARET_ROW_COLOR" value="5b5a4e" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="272822" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="1e1f22" />
     <option name="DELETED_LINES_COLOR" value="656e76" />
-    <option name="DOCUMENTATION_COLOR" value="3c3f41" />
+    <option name="DOCUMENTATION_COLOR" value="2b2d30" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="43474a" />
     <option name="GUTTER_BACKGROUND" value="272822" />
     <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="4c674c" />
